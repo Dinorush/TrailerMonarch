@@ -2,6 +2,7 @@
 	"Name": "Trailer Accurate Monarch",
 	"Description": "Adjusts Monarch to be Conduit-trailer accurate.",
 	"LoadPriority": 2,
+	"RequiredOnClient": true,
 	"Version": "1.0.0",
 
 	"Scripts": [
