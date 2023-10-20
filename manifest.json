@@ -1,0 +1,7 @@
+{
+    "name": "Trailer Accurate Monarch",
+    "version_number": "1.0.0",
+    "description": "Adjusts Monarch to be Conduit-trailer accurate.",
+    "website_url": "https://github.com/Dinorush/TrailerMonarch",
+    "dependencies": []
+}

@@ -1,0 +1,10 @@
+WeaponData
+{
+	Mods
+	{
+		Trailer
+		{
+			"charge_time"									"*0.01"
+		}
+	}
+}

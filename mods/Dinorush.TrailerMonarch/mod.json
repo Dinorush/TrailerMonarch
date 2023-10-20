@@ -1,0 +1,16 @@
+{
+	"Name": "Trailer Accurate Monarch",
+	"Description": "Adjusts Monarch to be Conduit-trailer accurate.",
+	"LoadPriority": 2,
+	"Version": "1.0.0",
+
+	"Scripts": [
+		{
+			"Path": "trailermonarch_utility.nut",
+			"RunOn": "SERVER && MP",
+			"ServerCallback": {
+				"After": "TrailerMonarch_Init"
+			}
+		}
+	]
+}
