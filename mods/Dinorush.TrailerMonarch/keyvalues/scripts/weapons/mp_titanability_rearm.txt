@@ -2,7 +2,7 @@ WeaponData
 {
 	Mods
 	{
-		Trailer
+		TrailerMonarch
 		{
 			"charge_time"									"*0.01"
 		}

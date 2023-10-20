@@ -2,7 +2,7 @@ WeaponData
 {
 	Mods
 	{
-		Trailer
+		TrailerMonarch
 		{
 			"damage_near_value"								"*2"
 			"damage_far_value"								"*2"
